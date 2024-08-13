@@ -1,4 +1,4 @@
-// Eugene Kepich, 2024-08-12
+// 2024-08-12
 
 const low_stock_count = 10; // low stock count (red)
 const warning_stock_count = 25; // warning stock count (yellow)
